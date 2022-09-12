@@ -14,7 +14,7 @@
             "email": "linqur@gmail.com"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "main",
     "require": {
         "php": ">=5.6.0"
     }
