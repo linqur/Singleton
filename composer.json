@@ -2,6 +2,7 @@
     "name": "linqur/singleton",
     "description": "Реализация шаблона singleton",
     "type": "library",
+    "license": "Apache-2.0",
     "autoload": {
         "psr-4": {
             "Linqur\\Singleton\\": "src/"
